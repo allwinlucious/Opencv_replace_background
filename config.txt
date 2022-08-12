@@ -1,0 +1,9 @@
+EDIT THIS
+white_threshold = 5
+dialate_kernel = 3
+erode_kernel = 3
+dilate_iterations = 1
+erode_iterations = 3
+anti_alias_kernel = 3
+anti_alias_sigma = 4
+background_blur=5
