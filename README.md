@@ -15,3 +15,5 @@ h) background_blur : adjust the blur of background
 
 3)run batch_process.py   
 if only one background image is inside backgrounds folder then it is used, if more images are present then random one is chosen  
+![diagram3](https://user-images.githubusercontent.com/15308488/184498147-461fb0c1-d73c-4c29-b0e2-1dd24d2b821b.png)
+![diagram3](https://user-images.githubusercontent.com/15308488/184498153-737f6f5f-d682-47fd-a417-627a55ca937f.png)
